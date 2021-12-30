@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amankumar3724
+- 👋 Hi, I’m Aman
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front End Development
 - 💞️ I’m looking to collaborate on interesting web projects
