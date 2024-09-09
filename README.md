@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aman
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front End Development
-- 💞️ I’m looking to collaborate on interesting web projects
+- 👀 I’m a .Net Core Developer
+- 🌱 I’m currently learning C#, .Net Core, EF Core, Microservices and Azure
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me amankumar3724@gmail.com
 
 <!---
